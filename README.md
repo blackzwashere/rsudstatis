@@ -1,0 +1,2 @@
+# rsudstatis
+RSUD Static Page
